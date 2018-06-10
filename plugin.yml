@@ -1,0 +1,7 @@
+name: DeluxeTabs
+main: me.specifies.core.DeluxeTabs
+version: 1.1
+commands:
+    tabprefix:
+        description: Add fancy tags.
+        usage: /tabprefix
